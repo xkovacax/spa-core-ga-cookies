@@ -15,7 +15,7 @@ import Footer from './components/Footer/Footer';
 import CookieConsent from './components/CookieConsent/CookieConsent';
 
 // Replace with your actual GA4 Measurement ID
-const GA4_MEASUREMENT_ID = 'G-XXXXXXXXXX';
+const GA4_MEASUREMENT_ID = 'G-D3P5ZET45L';
 
 function App() {
   const [activeSection, setActiveSection] = useState('home');
